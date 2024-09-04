@@ -1,8 +1,10 @@
-#### First, Start the Redis Server
+#### After running the springboot application,
 
-#### Next, Start Redis CLI
+#### 1. Start the Redis Server
 
-#### Then, run the monitor command to see the status of the Redis server:
+#### 2. Next, Start Redis CLI
+
+#### 3. Then, run the monitor command in redis-cli to monitor the statuses:
 
 ```
 monitor
